@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1.3Teterin", "OOP1.3Teterin\OOP1.3Teterin.csproj", "{393E933C-0DB9-4C5A-8A01-1183AD735DAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393E933C-0DB9-4C5A-8A01-1183AD735DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393E933C-0DB9-4C5A-8A01-1183AD735DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393E933C-0DB9-4C5A-8A01-1183AD735DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393E933C-0DB9-4C5A-8A01-1183AD735DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02BB0048-89CA-433C-B612-9511C79959EF}
+	EndGlobalSection
+EndGlobal
